@@ -1,0 +1,6 @@
+// Conectar la base de datos
+use("sample_training")
+
+// Realizar consulta
+db.zips.find({state: 'NY'})
+db.zips.find({state: 'NY'}).count()

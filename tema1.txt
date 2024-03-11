@@ -1,0 +1,20 @@
+Requeriminetos y modelado de nuestro sistema 
+Inentificas model MER Modelo Entidad Relacion 
+Aplicar patrones que nos sirven para consultas con mejor rendimiento Y 
+Pensadas en distintos escenarios 
+Cada uno de estas fases tendran ciertos aspectos que debemos evaluar 
+Como se detalla a continuacion 
+Los distintos escenarios 
+Los distintos escenarios se van a presentar con respecto a nuestro modelo de negocios
+Como un usuario que utilizara una app para editar mensajes (comprar productos)
+Expertos: 
+Incluir expertos relacionados con el tema de negocios que se esta construyendo
+    Si es un ecomers, necesitamos un esperto en el área 
+Sistema Actual
+Saber como funciona el sistema actual, si existe, Si no es así evaluar como gestionan y como se lleva 
+acabo las tareas presentes
+BD Admin 
+    Experto en el modelado en todas sus caracteristicas
+
+    urielshelby28
+    mongodb+srv://LilUriel:urielshelby28@cluster0.sqql2l7.mongodb.net/
